@@ -2,6 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https//TravisAlstrand.github.io/React-Courses-Directory",
   "devDependencies": {
     "react-scripts": "1.0.6"
   },
